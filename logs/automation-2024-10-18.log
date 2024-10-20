@@ -1,0 +1,52 @@
+17:23:54:197 [TestNG-tests-4] INFO  com.opencart.testcases.TC002_LoginTest - User navigated to DashBoard page
+17:23:54:485 [TestNG-tests-4] INFO  com.opencart.testcases.TC002_LoginTest - User Successfully logedin
+17:23:58:189 [TestNG-tests-5] INFO  com.opencart.testcases.TC002_LoginTest - ******** User is on HomePage********
+17:23:58:883 [TestNG-tests-5] INFO  com.opencart.testcases.TC002_LoginTest - User navigated to login page
+17:23:59:503 [TestNG-tests-5] INFO  com.opencart.testcases.TC002_LoginTest - User navigated to DashBoard page
+17:23:59:539 [TestNG-tests-5] INFO  com.opencart.testcases.TC002_LoginTest - User Successfully logedin
+17:28:57:863 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\venkatesh\eclipse-workspace\OpencartV121\grouping.xml"
+17:28:58:307 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\venkatesh\eclipse-workspace\OpencartV121\grouping.xml
+
+17:29:04:914 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on my account
+17:29:05:402 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on registr button
+17:29:05:407 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Filled details for registeration
+17:29:06:513 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on policy button
+17:29:09:150 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on Continue button
+17:29:11:786 [main] INFO  com.opencart.testcases.TC002_LoginTest - ******** User is on HomePage********
+17:29:13:053 [main] INFO  com.opencart.testcases.TC002_LoginTest - User navigated to login page
+17:29:13:735 [main] INFO  com.opencart.testcases.TC002_LoginTest - User navigated to DashBoard page
+17:29:13:778 [main] INFO  com.opencart.testcases.TC002_LoginTest - User Successfully logedin
+17:29:55:348 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\venkatesh\eclipse-workspace\OpencartV121\grouping.xml"
+17:30:23:376 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\venkatesh\eclipse-workspace\OpencartV121\grouping.xml"
+17:30:23:960 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\venkatesh\eclipse-workspace\OpencartV121\grouping.xml
+
+17:30:27:836 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on my account
+17:30:28:293 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on registr button
+17:30:28:297 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Filled details for registeration
+17:30:29:509 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on policy button
+17:30:31:987 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on Continue button
+17:30:34:119 [main] INFO  com.opencart.testcases.TC002_LoginTest - ******** User is on HomePage********
+17:30:35:283 [main] INFO  com.opencart.testcases.TC002_LoginTest - User navigated to login page
+17:30:36:527 [main] INFO  com.opencart.testcases.TC002_LoginTest - User navigated to DashBoard page
+17:30:36:637 [main] INFO  com.opencart.testcases.TC002_LoginTest - User Successfully logedin
+18:10:57:775 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\venkatesh\eclipse-workspace\OpencartV121\grid-docker.xml"
+18:10:58:228 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\venkatesh\eclipse-workspace\OpencartV121\grid-docker.xml
+
+18:11:04:706 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on my account
+18:11:05:237 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on registr button
+18:11:05:243 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Filled details for registeration
+18:11:06:594 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on policy button
+18:11:09:116 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on Continue button
+18:11:12:056 [main] INFO  com.opencart.testcases.TC002_LoginTest - ******** User is on HomePage********
+18:11:13:804 [main] INFO  com.opencart.testcases.TC002_LoginTest - User navigated to login page
+18:11:14:858 [main] INFO  com.opencart.testcases.TC002_LoginTest - User navigated to DashBoard page
+18:11:14:934 [main] INFO  com.opencart.testcases.TC002_LoginTest - User Successfully logedin
+18:11:24:243 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on my account
+18:11:25:213 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on registr button
+18:11:25:216 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Filled details for registeration
+18:11:25:870 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on policy button
+18:11:28:514 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on Continue button
+18:11:35:950 [main] INFO  com.opencart.testcases.TC002_LoginTest - ******** User is on HomePage********

@@ -1,0 +1,54 @@
+13:04:51:384 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\venkatesh\eclipse-workspace\OpencartV121\master.xml"
+13:04:51:741 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\venkatesh\eclipse-workspace\OpencartV121\master.xml
+
+13:04:54:940 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on my account
+13:04:55:389 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on registr button
+13:04:55:392 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Filled details for registeration
+13:04:56:174 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on policy button
+13:04:58:630 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on Continue button
+13:04:58:667 [main] ERROR com.opencart.testcases.TC001_AccountRegistrationTest - Validation got failed
+13:04:58:668 [main] DEBUG com.opencart.testcases.TC001_AccountRegistrationTest - please check the validations
+13:05:01:786 [main] INFO  com.opencart.testcases.TC002_LoginTest - ******** User is on HomePage********
+13:05:02:209 [main] INFO  com.opencart.testcases.TC002_LoginTest - User navigated to login page
+13:05:02:947 [main] INFO  com.opencart.testcases.TC002_LoginTest - User navigated to DashBoard page
+13:08:19:160 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\venkatesh\eclipse-workspace\OpencartV121\master.xml"
+13:08:19:567 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\venkatesh\eclipse-workspace\OpencartV121\master.xml
+
+13:08:22:825 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on my account
+13:08:23:319 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on registr button
+13:08:23:328 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Filled details for registeration
+13:08:24:447 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on policy button
+13:08:26:930 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on Continue button
+13:08:26:966 [main] ERROR com.opencart.testcases.TC001_AccountRegistrationTest - Validation got failed
+13:08:26:967 [main] DEBUG com.opencart.testcases.TC001_AccountRegistrationTest - please check the validations
+13:08:28:951 [main] INFO  com.opencart.testcases.TC002_LoginTest - ******** User is on HomePage********
+13:08:29:797 [main] INFO  com.opencart.testcases.TC002_LoginTest - User navigated to login page
+13:08:30:900 [main] INFO  com.opencart.testcases.TC002_LoginTest - User navigated to DashBoard page
+13:12:36:611 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\venkatesh\eclipse-workspace\OpencartV121\master.xml"
+13:12:36:986 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\venkatesh\eclipse-workspace\OpencartV121\master.xml
+
+13:12:40:177 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on my account
+13:12:40:632 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on registr button
+13:12:40:638 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Filled details for registeration
+13:12:41:832 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on policy button
+13:12:44:312 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on Continue button
+13:12:44:346 [main] ERROR com.opencart.testcases.TC001_AccountRegistrationTest - Validation got failed
+13:12:44:346 [main] DEBUG com.opencart.testcases.TC001_AccountRegistrationTest - please check the validations
+13:12:46:349 [main] INFO  com.opencart.testcases.TC002_LoginTest - ******** User is on HomePage********
+13:12:47:205 [main] INFO  com.opencart.testcases.TC002_LoginTest - User navigated to login page
+13:12:47:903 [main] INFO  com.opencart.testcases.TC002_LoginTest - User navigated to DashBoard page
+13:16:23:830 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\venkatesh\eclipse-workspace\OpencartV121\master.xml"
+13:16:24:240 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\venkatesh\eclipse-workspace\OpencartV121\master.xml
+
+13:16:27:335 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on my account
+13:16:27:788 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on registr button
+13:16:27:792 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Filled details for registeration
+13:16:29:030 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on policy button
+13:16:31:475 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on Continue button
+13:16:31:515 [main] ERROR com.opencart.testcases.TC001_AccountRegistrationTest - Validation got failed
+13:16:31:515 [main] DEBUG com.opencart.testcases.TC001_AccountRegistrationTest - please check the validations
+13:16:33:810 [main] INFO  com.opencart.testcases.TC002_LoginTest - ******** User is on HomePage********

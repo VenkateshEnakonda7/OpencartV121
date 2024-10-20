@@ -1,0 +1,41 @@
+20:06:27:750 [TestNG-tests-3] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - LastName is Entered in the field box
+20:06:27:840 [TestNG-tests-3] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Email is entered in the field box
+20:06:27:894 [TestNG-tests-3] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Phone number is entered in the field box
+20:06:27:939 [TestNG-tests-3] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Password is entered in the field box
+20:06:27:984 [TestNG-tests-3] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - same Password is entered in the confirm password field
+20:06:28:251 [TestNG-tests-3] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on policy button
+20:06:29:446 [TestNG-tests-1] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on Continue button
+20:06:29:485 [TestNG-tests-1] ERROR com.opencart.testcases.TC001_AccountRegistrationTest - Validation got failed
+20:06:29:485 [TestNG-tests-1] DEBUG com.opencart.testcases.TC001_AccountRegistrationTest - please check the validations
+20:06:30:939 [TestNG-tests-3] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on Continue button
+20:06:30:959 [TestNG-tests-3] ERROR com.opencart.testcases.TC001_AccountRegistrationTest - Validation got failed
+20:06:30:959 [TestNG-tests-3] DEBUG com.opencart.testcases.TC001_AccountRegistrationTest - please check the validations
+20:31:59:273 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on my account
+20:32:00:489 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on registr button
+20:32:00:573 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Full Name is entered in the field box
+20:32:00:615 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - LastName is Entered in the field box
+20:32:00:657 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Email is entered in the field box
+20:32:00:698 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Phone number is entered in the field box
+20:32:00:737 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Password is entered in the field box
+20:32:00:771 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - same Password is entered in the confirm password field
+20:32:01:006 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on policy button
+20:32:03:924 [main] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on Continue button
+20:32:03:950 [main] ERROR com.opencart.testcases.TC001_AccountRegistrationTest - Validation got failed
+20:32:03:950 [main] DEBUG com.opencart.testcases.TC001_AccountRegistrationTest - please check the validations
+20:32:23:830 [TestNG-tests-1] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on my account
+20:32:24:538 [TestNG-tests-1] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on registr button
+20:32:24:654 [TestNG-tests-1] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Full Name is entered in the field box
+20:32:24:814 [TestNG-tests-1] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - LastName is Entered in the field box
+20:32:24:906 [TestNG-tests-1] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Email is entered in the field box
+20:32:24:996 [TestNG-tests-1] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Phone number is entered in the field box
+20:32:25:096 [TestNG-tests-2] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on my account
+20:32:25:111 [TestNG-tests-1] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Password is entered in the field box
+20:32:25:234 [TestNG-tests-1] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - same Password is entered in the confirm password field
+20:32:25:353 [TestNG-tests-1] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on policy button
+20:32:26:169 [TestNG-tests-2] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Clicked on registr button
+20:32:26:655 [TestNG-tests-2] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Full Name is entered in the field box
+20:32:26:907 [TestNG-tests-2] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - LastName is Entered in the field box
+20:32:27:246 [TestNG-tests-2] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Email is entered in the field box
+20:32:27:531 [TestNG-tests-2] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Phone number is entered in the field box
+20:32:27:788 [TestNG-tests-2] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - Password is entered in the field box
+20:32:28:043 [TestNG-tests-2] INFO  com.opencart.testcases.TC001_AccountRegistrationTest - same Password is entered in the confirm password field
