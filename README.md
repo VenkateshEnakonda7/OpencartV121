@@ -19,7 +19,7 @@ OpencartV121 is an automated testing framework for the OpenCart e-commerce platf
 - **Jenkins** (CI/CD)
 
 ## 📂 Project Structure
-
+```
 OpencartV121/
 │── src/
 │ ├── main/  # Application code
@@ -28,7 +28,7 @@ OpencartV121/
 │── pom.xml  # Maven dependencies
 │── testng.xml  # TestNG configuration
 │── README.md  # Project documentation
-
+```
 
 ## 📖 How to Set Up and Run Tests
 ### 1️⃣ Clone the Repository
